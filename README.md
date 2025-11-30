@@ -1,7 +1,7 @@
 # Matheus-Rieper 👦🏼💻❤
 
 QA Júnior | Testes Manuais & Automação (Cypress)
-Atualmente focado em evoluir na área de Qualidade de Software. Experiência com testes manuais, escrita de cenários, inspeção de elementos e criação de scripts de automação utilizando Cypress. Estou sempre buscando aprimorar minhas habilidades e desenvolver projetos reais para fortalecer meu portfólio e contribuir com times de tecnologia.
+Atualmente focado em evoluir na área de Qualidade de Software. Possuo experiência com testes manuais, escrita de cenários, inspeção de elementos e criação de scripts de automação utilizando Cypress. Busco constantemente aprimorar minhas habilidades e desenvolver projetos reais para fortalecer meu portfólio e contribuir com times de tecnologia.
 
 ---
 
