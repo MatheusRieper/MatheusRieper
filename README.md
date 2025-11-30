@@ -1,12 +1,7 @@
 # Matheus-Rieper 👦🏼💻❤
 
-**`Desenvolvedor FullStack`**
-
-Meu nome é Matheus Rieper tenho 28 anos e sou de Joinville Santa Catarina.
-Sou um programador dedicado e apaixonado por aprender novas tecnologias. Tenho experiência com linguagens como PHP, C#, JavaScript e SQL, 
-e estou em constante busca por aprimoramento técnico. Valorizo muito o trabalho em equipe e a boa comunicação, além de sempre manter uma 
-postura positiva e proativa diante dos desafios.
-Estou cursando Analise e Desenvolvimento de Sistemas. 
+QA Júnior | Testes Manuais & Automação (Cypress)
+Atualmente focado em evoluir na área de Qualidade de Software. Experiência com testes manuais, escrita de cenários, inspeção de elementos e criação de scripts de automação utilizando Cypress. Estou sempre buscando aprimorar minhas habilidades e desenvolver projetos reais para fortalecer meu portfólio e contribuir com times de tecnologia.
 
 ---
 
