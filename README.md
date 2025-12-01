@@ -77,5 +77,7 @@ Atualmente focado em evoluir na área de Qualidade de Software. Possuo experiên
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain-wordmark.svg" 
 />
+
+          
