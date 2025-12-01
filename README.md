@@ -73,11 +73,9 @@ Atualmente focado em evoluir na área de Qualidade de Software. Possuo experiên
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Cypress" 
+    title="Cypress"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain-wordmark.svg"
 />
-
-          
