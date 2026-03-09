@@ -1,9 +1,30 @@
 # Matheus-Rieper 👦🏼💻❤
 
-QA Júnior | Testes Manuais & Automação (Cypress)
-Atualmente focado em evoluir na área de Qualidade de Software. Possuo experiência com testes manuais, escrita de cenários, inspeção de elementos e criação de scripts de automação utilizando Cypress. Busco constantemente aprimorar minhas habilidades e desenvolver projetos reais para fortalecer meu portfólio e contribuir com times de tecnologia.
+# Olá! Eu sou o Matheus Souza 👋
 
----
+💻 Desenvolvedor de Software em formação  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+📍 Joinville - SC
+
+## Tecnologias
+
+- JavaScript
+- C#
+- PHP
+- HTML
+- CSS
+- Git
+
+## Atualmente estudando
+
+- Desenvolvimento Web
+- APIs REST
+- Automação de testes com Cypress
+- Boas práticas de desenvolvimento
+
+## Contato
+
+LinkedIn: https://www.linkedin.com/in/matheus-rieper-a4456b238/
 
 ### 🤖 Linguagens e Tecnologias
 
